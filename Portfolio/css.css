@@ -309,7 +309,7 @@ body {
 	border-radius:5px;
 	position:absolute;
 	top:20px;
-	left:870px;
+	left:970px;
 	background-color:#fff;
 	opacity:0.9;
 }
@@ -331,12 +331,12 @@ body {
 	border-radius:5px;
 	position:absolute;
 	top:550px;
-	left:650px;
+	left:760px;
 	background-color:#fff;
 	opacity:0.9;
 }
 #box5{
-	width:45%;
+	width:50%;
 	height:220px;
 	padding:0px 10px;
 	border-radius:5px;
